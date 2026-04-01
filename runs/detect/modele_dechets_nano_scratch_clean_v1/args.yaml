@@ -1,7 +1,7 @@
 task: detect
 mode: train
 model: yolo26n.pt
-data: /home/antoine/utbm/wall_e_train/dataset/dataset_clean_v1/data_clean.yaml
+data: dataset/dataset_clean_v1/data_clean.yaml
 epochs: 120
 time: null
 patience: 30
