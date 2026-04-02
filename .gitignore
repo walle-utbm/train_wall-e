@@ -2,6 +2,15 @@
 dataset/
 **/dataset/
 **/dataset_*/
+**/merged_yolo_dataset/
+**/merged_yolo_dataset_*/
+merged_yolo_dataset/
+**/taco_yolo_dataset/
+TACO-master/
+TACO-master_*/
+*.zip
+garbage-data.zip
 
 # Jupyter checkpoints
 .ipynb_checkpoints/
+merged_yolo_dataset/test/images/*
