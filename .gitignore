@@ -2,6 +2,9 @@
 dataset/
 **/dataset/
 **/dataset_*/
+*.zip
+garbage-data.zip
 
 # Jupyter checkpoints
 .ipynb_checkpoints/
+merged_yolo_dataset/test/images/*
