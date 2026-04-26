@@ -4,6 +4,7 @@ dataset/
 **/dataset_*/
 *.zip
 garbage-data.zip
+TACO-master/
 
 # Jupyter checkpoints
 .ipynb_checkpoints/
