@@ -5,6 +5,8 @@ dataset/
 *.zip
 garbage-data.zip
 EI_Upload/
+TACO-master/
+
 # Jupyter checkpoints
 .ipynb_checkpoints/
 merged_yolo_dataset/test/images/*
