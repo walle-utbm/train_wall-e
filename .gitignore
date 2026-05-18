@@ -9,3 +9,5 @@ TACO-master/
 # Jupyter checkpoints
 .ipynb_checkpoints/
 merged_yolo_dataset/test/images/*
+.env
+/wandb/*
