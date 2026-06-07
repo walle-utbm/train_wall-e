@@ -6,6 +6,7 @@ dataset/
 garbage-data.zip
 EI_Upload/
 TACO-master/
+runs/detect/modele_dechets_medium_combined_v1/
 
 # Jupyter checkpoints
 .ipynb_checkpoints/
